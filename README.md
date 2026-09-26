@@ -101,7 +101,7 @@ techbridge-sales-expense-analysis/
 ![Sales Sheet](sales-sheet.png)
 
 **Purchases Sheet**
-![Purchases Sheet](screenshots/purchases-sheet.png)
+![Purchases Sheet](purchases-sheet.png)
 
 **Expenses Sheet**
 ![Expenses Sheet](screenshots/expenses-sheet.png)
