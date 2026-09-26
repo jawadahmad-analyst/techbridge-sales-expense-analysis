@@ -95,7 +95,7 @@ techbridge-sales-expense-analysis/
 ## 🖼️ Screenshots
 
 **Summary Dashboard** — KPIs, receivables/payables, profitability, and charts
-![Summary Dashboard](screenshots/summary-dashboard.png)
+![Summary Dashboard](summary-dashboard.png)
 
 **Sales Sheet**
 ![Sales Sheet](sales-sheet.png)
