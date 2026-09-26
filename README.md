@@ -113,3 +113,4 @@ techbridge-sales-expense-analysis/
 **Jawad Ahmad**
 BBA Finance | Aspiring Financial/Data Analyst
 📧 jawadah312@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/jawad-analyst/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzrPworoARfKyj3l3zrVELQ%3D%3D)
